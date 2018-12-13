@@ -1,4 +1,4 @@
-Number_Of_Sides_Dictionary= {
+Number_Of_Sides_Dictionary = {
 "Triangle" : 3,
 "Square" : 4,
 "Pentagon" : 5,
