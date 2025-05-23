@@ -4,7 +4,7 @@ countries = {
     "Algeria": "Algiers",
     "Andorra": "Andorra la Vella",
     "Angola": "Luanda",
-    "Antigua and Barbuda": "Saint John’s",
+    "Antigua and Barbuda": "Saint John\’s",
     "Argentina": "Buenos Aires",
     "Armenia": "Yerevan",
     "Australia": "Canberra",
