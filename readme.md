@@ -6,8 +6,11 @@ This is a python dictionary with the countries of the world and their capitals. 
 ## Letters and Numbers Dictionary.py
 This is a python dictionary with the letters of the alphabet (lowercase) and their positions in the alphabet.
 
-## Shapes Dictionary.py
-This is a python dictionary with shapes that have 3 - 10 sides and their respective number of sides.
+## Polygons Dictionary.py
+This is a python dictionary with shapes(polygons) that have 3 - 10 sides and their respective number of sides.
+
+## ElementSymbols.py
+This is a python dictionary of elements of the periodic table and their corresponding symbols
 
 
 
